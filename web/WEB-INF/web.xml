@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+		  http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+           version="2.5">
+    <servlet>
+        <servlet-name>Servlet</servlet-name>
+        <servlet-class>net.netdedicated.servlets.RootServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>License</servlet-name>
+        <servlet-class>net.netdedicated.servlets.LicenseServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Option</servlet-name>
+        <servlet-class>net.netdedicated.servlets.OptionServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Servlet</servlet-name>
+        <url-pattern>/index/*</url-pattern>
+
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>License</servlet-name>
+        <url-pattern>/license/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Option</servlet-name>
+        <url-pattern>/option/*</url-pattern>
+    </servlet-mapping>
+    <welcome-file-list>
+        <welcome-file>index</welcome-file>
+    </welcome-file-list>
+    <listener>
+        <listener-class>net.netdedicated.Config</listener-class>
+    </listener>
+    <listener>
+        <listener-class>net.netdedicated.db.DBInit</listener-class>
+    </listener>
+    <listener>
+        <listener-class>org.apache.shiro.web.env.EnvironmentLoaderListener</listener-class>
+    </listener>
+
+    <filter>
+        <filter-name>shiroFilter</filter-name>
+        <filter-class>org.apache.shiro.web.servlet.ShiroFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>shiroFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+        <dispatcher>REQUEST</dispatcher>
+        <dispatcher>FORWARD</dispatcher>
+        <dispatcher>INCLUDE</dispatcher>
+        <dispatcher>ERROR</dispatcher>
+    </filter-mapping>
+
+</web-app>

@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="967aada9-c193-4d23-a7df-e582aaf968d8" name="Default" comment="" />
+    <ignored path="licenseserver.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/web.xml" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1396006441801" ignored="false" />
+    <file path="/RootServlet.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1389013560317" ignored="false" />
+    <file path="/pom.xml" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395998638668" ignored="false" />
+    <file path="/ConnectionPoolHolder.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1388564387534" ignored="false" />
+    <file path="/Config.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1396001996745" ignored="false" />
+    <file path="/configuration.properties" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1388384849417" ignored="false" />
+    <file path="/DBInit.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1389607096956" ignored="false" />
+    <file path="/ConfigHolder.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1388385820423" ignored="false" />
+    <file path="/LicenseServlet.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395842678198" ignored="false" />
+    <file path="/ShiroBoneCPDataSource.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1396082875082" ignored="false" />
+    <file path="/shiro.ini" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1396082330889" ignored="false" />
+    <file path="/login.jsp" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1388911709487" ignored="false" />
+    <file path="/License.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395843033196" ignored="false" />
+    <file path="/add.jsp" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1389637353818" ignored="false" />
+    <file path="/ErrorBean.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1389446052777" ignored="false" />
+    <file path="/list.jsp" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1389637871374" ignored="false" />
+    <file path="/index.jsp" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1389258686807" ignored="false" />
+    <file path="/Dummy.txt" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395999109016" ignored="false" />
+    <file path="/Option.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1389674129959" ignored="false" />
+    <file path="/OptionServlet.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1389639155017" ignored="false" />
+    <file path="/PgpHelper.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391189833724" ignored="false" />
+    <file path="$PROJECT_DIR$/../untitled/pgptest/src/main/java/com/test/Pgptest.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1389782013126" ignored="false" />
+    <file path="$PROJECT_DIR$/../untitled/pgptest/src/main/java/com/test/Pgpverify.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1389863072862" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/conf/BootStrap.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391452798408" ignored="false" />
+    <file path="/BootStrap.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395925477790" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/src/java/ru/multicabinet/License.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391416860931" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/jobs/ru/multicabinet/CurrencyJob.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1390738459563" ignored="false" />
+    <file path="/CurrencyJob.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1390738457933" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/src/java/ru/multicabinet/LicenseData.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391415484347" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/conf/spring/resources.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391266581109" ignored="false" />
+    <file path="/resources.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391266578108" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/src/java/ru/multicabinet/LicensePathHolder.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391266515516" ignored="false" />
+    <file path="/LicensePathHolder.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391266464207" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/test/unit/ru/multicabinet/LicenseTests.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391451985592" ignored="false" />
+    <file path="/LicenseTests.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391450217995" ignored="false" />
+    <file path="/LicenseData.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391415431853" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/target/test-reports/TESTS-TestSuites.xml" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1392030943536" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/target/test-reports/TEST-unit-unit-ru.multicabinet.LicenseTests.xml" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391416585334" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/views/layouts/admin.gsp" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1392052650164" ignored="false" />
+    <file path="/admin.gsp" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1393275286615" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/views/packet/create.gsp" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391486538133" ignored="false" />
+    <file path="/create.gsp" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1393337843946" ignored="false" />
+    <file path="/messages_ru.properties" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391619293585" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/i18n/messages_ru.properties" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391625669448" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/i18n/messages.properties" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395998325214" ignored="false" />
+    <file path="/messages.properties" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391608892641" ignored="false" />
+    <file path="/TempOrder.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391488671130" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/domain/ru/multicabinet/TempOrder.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391488674295" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/views/contactField/create.gsp" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391601765190" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/domain/ru/multicabinet/Order.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391601876971" ignored="false" />
+    <file path="/Order.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395990579879" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/controllers/ru/multicabinet/ShopController.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391626075007" ignored="false" />
+    <file path="/ShopController.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391626070736" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/views/customFields/create.gsp" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391609141812" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/views/customFields/list.gsp" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391619214103" ignored="false" />
+    <file path="/list.gsp" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391619205675" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/test/unit/ru/multicabinet/Servermodule_owpServiceTests.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1392036847591" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/services/ru/multicabinet/Servermodule_owpService.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1392037019451" ignored="false" />
+    <file path="/Servermodule_owpService.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1392037016842" ignored="false" />
+    <file path="/Servermodule_owpServiceTests.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1392036842567" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/target/test-reports/TEST-unit-unit-ru.multicabinet.Servermodule_owpServiceTests.xml" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1392032231385" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/target/test-reports/html/index.html" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1391963320868" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/services/ru/multicabinet/ServermasterService.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1392034434307" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/services/ru/multicabinet/OrderprocessorService.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1392034726032" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/test/unit/ru/multicabinet/LicenseTagLibTests.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1392042443273" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/taglib/ru/multicabinet/LicenseTagLib.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1392052146055" ignored="false" />
+    <file path="/LicenseTagLib.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1392052142029" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/src/java/ru/multicabinet/SMTPMail.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1392094493599" ignored="false" />
+    <file path="/SMTPMail.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1392094491317" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/services/ru/multicabinet/Notifymodule_smtpService.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1392094940138" ignored="false" />
+    <file path="/Notifymodule_smtpService.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1392094937097" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet.com/grails-app/views/dashboard/index.gsp" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1393279746814" ignored="false" />
+    <file path="/index.gsp" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1393279746814" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet.com/grails-app/views/layouts/admin.gsp" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1393275287516" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet.com/grails-app/controllers/com/multicabinet/admin/CategoryAdminController.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1393323434111" ignored="false" />
+    <file path="/CategoryAdminController.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1393323432763" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet.com/grails-app/views/categoryAdmin/create.gsp" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1393337867991" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet.com/grails-app/views/categoryAdmin/list.gsp" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1393323874549" ignored="false" />
+    <file path="$PROJECT_DIR$/../mc-license/.idea/workspace.xml" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395682622719" ignored="false" />
+    <file path="$PROJECT_DIR$/../licenseApi/src/main/java/net/netdedicated/license/LicenseApi.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395843636385" ignored="false" />
+    <file path="$PROJECT_DIR$/../licenseApi/src/main/java/net/netdedicated/license/BasicCredentials.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395841135101" ignored="false" />
+    <file path="/BasicCredentials.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395841135101" ignored="false" />
+    <file path="/LicenseApi.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395843365948" ignored="false" />
+    <file path="/fragment.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395921087692" ignored="false" />
+    <file path="$PROJECT_DIR$/../licenseApi/src/main/java/net/netdedicated/license/beans/domain/License.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395736495537" ignored="false" />
+    <file path="$PROJECT_DIR$/../licenseApi/src/main/java/net/netdedicated/license/domain/License.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395736556377" ignored="false" />
+    <file path="$PROJECT_DIR$/../untitled/pgptest/src/main/java/com/test/aes/Aestest.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395832921443" ignored="false" />
+    <file path="$PROJECT_DIR$/../untitled/pgptest/pom.xml" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395831872710" ignored="false" />
+    <file path="/Aestest.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395832920588" ignored="false" />
+    <file path="$PROJECT_DIR$/../licenseApi/src/test/java/net/netdedicated/license/TestLicenseApi.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395902769495" ignored="false" />
+    <file path="/TestLicenseApi.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395902705880" ignored="false" />
+    <file path="$PROJECT_DIR$/../licenseApi/pom.xml" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395840535366" ignored="false" />
+    <file path="$PROJECT_DIR$/../licenseApi/src/main/java/net/netdedicated/domain/License.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395841675539" ignored="false" />
+    <file path="$PROJECT_DIR$/../mc-license/grails-app/conf/BootStrap.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395925482395" ignored="false" />
+    <file path="$PROJECT_DIR$/../mc-license/McLicenseGrailsPlugin.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395999227835" ignored="false" />
+    <file path="$PROJECT_DIR$/../mc-license/grails-app/controllers/ru/netdedicated/license/LicenseController.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395921173588" ignored="false" />
+    <file path="$PROJECT_DIR$/../mc-license/src/groovy/netdedicated/OrderStatus.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395921070042" ignored="false" />
+    <file path="$PROJECT_DIR$/../mc-license/grails-app/domain/ru/multicabinet/Order.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395990635593" ignored="false" />
+    <file path="$PROJECT_DIR$/../mc-license/src/groovy/ru/netdedicated/OrderStatus.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395921107925" ignored="false" />
+    <file path="$PROJECT_DIR$/../mc-license/src/groovy/ru/netdedicated/GrailsUtils.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395921107925" ignored="false" />
+    <file path="$PROJECT_DIR$/../mc-license/src/groovy/ru/netdedicated/GAHolder.java" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395921107925" ignored="false" />
+    <file path="$PROJECT_DIR$/../mc-license/target/stacktrace.log" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395922234660" ignored="false" />
+    <file path="/ShiroRole.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395925607096" ignored="false" />
+    <file path="$PROJECT_DIR$/../mc-license/grails-app/domain/ru/multicabinet/ShiroRole.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395957157618" ignored="false" />
+    <file path="$PROJECT_DIR$/../mc-license/grails-app/domain/ru/multicabinet/ShiroUser.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395991560551" ignored="false" />
+    <file path="$PROJECT_DIR$/../mc-license/target/pom.xml" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395999046121" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/grails-app/conf/BuildConfig.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395998364542" ignored="false" />
+    <file path="/BuildConfig.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395998308079" ignored="false" />
+    <file path="$PROJECT_DIR$/../multicabinet/web-app/WEB-INF/applicationContext.xml" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395998325214" ignored="false" />
+    <file path="$PROJECT_DIR$/../mc-license/plugin.xml" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395998604770" ignored="false" />
+    <file path="$PROJECT_DIR$/../mc-netdedicated/web-app/WEB-INF/applicationContext.xml" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395999158485" ignored="false" />
+    <file path="$PROJECT_DIR$/../mc-netdedicated/application.properties" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395999158485" ignored="false" />
+    <file path="/McpluginNetdedicatedGrailsPlugin.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395999242107" ignored="false" />
+    <file path="$PROJECT_DIR$/../mc-netdedicated/McpluginNetdedicatedGrailsPlugin.groovy" changelist="967aada9-c193-4d23-a7df-e582aaf968d8" time="1395999242107" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/net/netdedicated/servlets/RootServlet.java" line="36" class="net.netdedicated.servlets.RootServlet" package="net.netdedicated.servlets">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="licenseserver" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="29" selection-start="1350" selection-end="1350" vertical-scroll-proportion="-7.2">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShiroBoneCPDataSource.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/db/ShiroBoneCPDataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="8" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Config.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="107" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.5494506">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="40" selection-start="1953" selection-end="1953" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LicenseServlet.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/servlets/LicenseServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="145" column="61" selection-start="5814" selection-end="5814" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shiro.ini" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/shiro.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="0" selection-start="1162" selection-end="1162" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="License.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/domain/License.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="122" column="44" selection-start="3686" selection-end="3686" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBInit.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/db/DBInit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="60" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectionPoolHolder.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/db/ConnectionPoolHolder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="71" selection-start="875" selection-end="875" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PgpHelper.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/pgp/PgpHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="116" column="43" selection-start="4447" selection-end="4447" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/lic/list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/net/netdedicated/beans/ErrorBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/netdedicated/db/DBInit.java" />
+        <option value="$PROJECT_DIR$/web/opt/add.jsp" />
+        <option value="$PROJECT_DIR$/web/opt/list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/net/netdedicated/servlets/OptionServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/netdedicated/domain/Option.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/netdedicated/pgp/PgpHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/netdedicated/servlets/LicenseServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/netdedicated/domain/License.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/shiro.ini" />
+        <option value="$PROJECT_DIR$/src/main/java/net/netdedicated/db/ShiroBoneCPDataSource.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/net/netdedicated/Config.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="licenseserver" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="licenseserver" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="-4" />
+    <option name="width" value="1368" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netdedicated" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netdedicated" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servlets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netdedicated" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pgp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netdedicated" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netdedicated" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="licenseserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netdedicated" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/licenseserver-1.0-SNAPSHOT.war" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/opt" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 7.0">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Tomcat 7.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0">
+      <option name="COMMON_VM_ARGUMENTS" value="-Denv.name=dev -Xmx32m" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <file path="$PROJECT_DIR$/target/licenseserver-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_licenseserver" />
+        <option name="HTTP_PORT" value="8089" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="35790" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="package" />
+      </method>
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 7.0" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="967aada9-c193-4d23-a7df-e582aaf968d8" name="Default" comment="" />
+      <created>1388119891795</created>
+      <updated>1388119891795</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-4" width="1368" height="773" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39872408" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31897926" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.336" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.67304623" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32954547" sideWeight="0.67304623" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24924242" sideWeight="0.28389156" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.71610844" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/beans/ErrorBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="30" selection-start="693" selection-end="693" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/opt/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="42" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/servlets/OptionServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="49" selection-start="2294" selection-end="2294" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/domain/Option.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="39" selection-start="2443" selection-end="2443" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/ConfigHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="62" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/opt/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="57" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/pgp/PgpHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="116" column="43" selection-start="4447" selection-end="4447" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/domain/License.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="44" selection-start="3686" selection-end="3686" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/servlets/LicenseServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="61" selection-start="5814" selection-end="5814" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="40" selection-start="1953" selection-end="1953" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/shiro.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="1162" selection-end="1162" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/db/ConnectionPoolHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="71" selection-start="875" selection-end="875" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/db/ShiroBoneCPDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="8" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/db/DBInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="60" selection-start="719" selection-end="719" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="29" selection-start="1350" selection-end="1350" vertical-scroll-proportion="-7.2">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/netdedicated/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="107" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.5494506">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>web:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>grails-2.2.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>licenseserver</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31152633" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.jolbox:bonecp:0.8.0.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
