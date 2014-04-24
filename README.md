@@ -1,0 +1,4 @@
+licenseserver
+=============
+
+Netdedicated License Server
