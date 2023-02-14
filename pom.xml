@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <shiro.version>1.2.2</shiro.version>
+        <shiro.version>1.10.0</shiro.version>
     </properties>
 
 
